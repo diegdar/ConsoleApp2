@@ -13,6 +13,9 @@ namespace ConsoleApp2
 
             //primera version
             Console.WriteLine("Inicios de GIT");
+
+            //segunda version
+            Console.WriteLine("Ya con cosas avanzadas");
         }
     }
 }
