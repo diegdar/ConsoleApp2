@@ -10,6 +10,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+
+            //primera version
+            Console.WriteLine("Inicios de GIT");
         }
     }
 }
